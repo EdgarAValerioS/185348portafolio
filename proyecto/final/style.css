@@ -185,7 +185,15 @@ footer {
 
 
 
+#contiene{
+	display: flex;
+	flex-direction: column;
+	background-color: lightgray;
+	margin: 5em;
+	padding: 4em;
+	border-radius: 20px;
 
+}
 
 
 
